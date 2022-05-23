@@ -1,10 +1,8 @@
 # G-ONE-AI-ASSISTANT
 An AI Voice Assistant Built Using Python
 
-Takes User's Input and Automates the Task 
-
-PACKAGES-USED:
-1.speech_recognition
+## PACKAGES-USED:
+  -speech_recognition
 2.pyttsx3
 3.datetime
 4.wikipedia
