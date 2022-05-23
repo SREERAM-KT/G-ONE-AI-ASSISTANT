@@ -1,7 +1,7 @@
 # G-ONE-AI-ASSISTANT
 An AI Voice Assistant Built Using Python
 
-## PACKAGES-USED:
+## Packages Used:
 - speech_recognition
 - pyttsx3
 - datetime
@@ -13,5 +13,5 @@ An AI Voice Assistant Built Using Python
 - json
 - requests
    
-   
+ 
  
